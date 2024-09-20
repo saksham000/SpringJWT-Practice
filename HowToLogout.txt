@@ -1,0 +1,1 @@
+To logout in frontend part we can rmove the saved jwt token from local storage. Beacuse the session is stateless so from server side there is not storage of jwt it just the token.
