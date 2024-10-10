@@ -76,7 +76,6 @@ public class PublicController {
         }catch(Exception e){
             throw new UsernameNotFoundException("Incorret username or pass");
         }
-
     }
     
 }
